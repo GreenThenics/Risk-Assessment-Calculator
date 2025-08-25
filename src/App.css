@@ -1,0 +1,141 @@
+/* General App Styles */
+body {
+  background-color: #0d0d0d; /* Dark terminal-like background */
+  color: #00ff66; /* Terminal green */
+  font-family: 'Courier New', monospace;
+  font-size: 0.95rem;
+  margin: 0;
+  padding: 0;
+}
+
+/* Navbar */
+.navbar {
+  background-color: #1a1a1a !important;
+  box-shadow: 0px 2px 8px rgba(0, 255, 102, 0.2);
+}
+
+.navbar-brand, .nav-link {
+  color: #00ff66 !important;
+}
+
+.nav-link:hover {
+  color: #ffffff !important;
+}
+
+/* Page Container */
+.container {
+  background-color: #1a1a1a;
+  padding: 2rem;
+  border-radius: 12px;
+  box-shadow: 0px 4px 12px rgba(0, 255, 102, 0.15);
+  margin-top: 2rem;
+  color: #dcdcdc;
+}
+
+/* Headings */
+h1, h2, h3 {
+  font-weight: bold;
+  color: #00ff66;
+  margin-bottom: 1rem;
+  text-shadow: 0 0 4px #00ff66;
+}
+
+/* Home Page */
+.home-section {
+  text-align: center;
+  padding: 2rem 1rem;
+}
+
+.home-section h1 {
+  font-size: 2rem;
+  color: #00ff66;
+}
+
+.home-section p {
+  color: #a6a6a6;
+  font-size: 1.1rem;
+}
+
+/* Assessment Form */
+.assessment-form {
+  max-width: 700px;
+  margin: auto;
+  background-color: #141414;
+  padding: 1.5rem;
+  border-radius: 8px;
+  border: 1px solid #00ff66;
+}
+
+.assessment-form .form-label {
+  font-weight: 500;
+  color: #00ff66;
+}
+
+.assessment-form button {
+  margin-top: 1rem;
+  background-color: #00ff66;
+  color: black;
+  border: none;
+}
+
+.assessment-form button:hover {
+  background-color: #00cc52;
+}
+
+/* Results Page */
+.results-section {
+  text-align: center;
+}
+
+.results-card {
+  background-color: #141414;
+  border-left: 6px solid #00ff66;
+  padding: 1.5rem;
+  margin-bottom: 1rem;
+  border-radius: 8px;
+  color: #dcdcdc;
+}
+
+/* Report Page */
+.report-section {
+  padding: 1rem;
+  background-color: #141414;
+  border-radius: 8px;
+  border: 1px solid #00ff66;
+}
+
+.report-section h2 {
+  margin-bottom: 1.5rem;
+  color: #00ff66;
+}
+
+.print-btn {
+  margin-top: 1rem;
+  background-color: #00ff66;
+  color: black;
+  border: none;
+}
+
+.print-btn:hover {
+  background-color: #00cc52;
+}
+
+/* History Page */
+.history-list {
+  list-style: none;
+  padding: 0;
+}
+
+.history-item {
+  background: #141414;
+  border: 1px solid #00ff66;
+  padding: 1rem;
+  border-radius: 8px;
+  margin-bottom: 0.75rem;
+  transition: all 0.2s ease-in-out;
+  color: #dcdcdc;
+}
+
+.history-item:hover {
+  background: #1f1f1f;
+}
