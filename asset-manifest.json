@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Risk-Assessment-Calculator/static/css/main.ea15ab0e.css",
+    "main.js": "/Risk-Assessment-Calculator/static/js/main.286a2195.js",
+    "static/js/239.2937d592.chunk.js": "/Risk-Assessment-Calculator/static/js/239.2937d592.chunk.js",
+    "static/js/977.65839cc7.chunk.js": "/Risk-Assessment-Calculator/static/js/977.65839cc7.chunk.js",
+    "static/js/455.07ed2be7.chunk.js": "/Risk-Assessment-Calculator/static/js/455.07ed2be7.chunk.js",
+    "index.html": "/Risk-Assessment-Calculator/index.html",
+    "main.ea15ab0e.css.map": "/Risk-Assessment-Calculator/static/css/main.ea15ab0e.css.map",
+    "main.286a2195.js.map": "/Risk-Assessment-Calculator/static/js/main.286a2195.js.map",
+    "239.2937d592.chunk.js.map": "/Risk-Assessment-Calculator/static/js/239.2937d592.chunk.js.map",
+    "977.65839cc7.chunk.js.map": "/Risk-Assessment-Calculator/static/js/977.65839cc7.chunk.js.map",
+    "455.07ed2be7.chunk.js.map": "/Risk-Assessment-Calculator/static/js/455.07ed2be7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea15ab0e.css",
+    "static/js/main.286a2195.js"
+  ]
+}
