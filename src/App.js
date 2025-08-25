@@ -23,6 +23,7 @@ function App() {
       <Container className="mt-4">
         <Routes>
           <Route path="/" element={<Home />} />
+          <Route path="/home" element={<Home />} /> 
           <Route path="/assessment" element={<AssessmentForm />} />
           <Route path="/results" element={<Results />} />
           <Route path="/report" element={<Report />} />
